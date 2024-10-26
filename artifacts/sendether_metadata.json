@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/sendether.sol": "sendether"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/sendether.sol": {
+			"keccak256": "0x0f65f2079646924547a1285b1d5338e70547e9b16aef725fe5b7e5f2d94425e5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b647c472004ae091f95b5e3d578fe4754def5ce670fe3b988cbe103fd3c88542",
+				"dweb:/ipfs/QmYvjh7kzpGYSuZHohCiY8iygD6WpxxrYBe9T4ffLmQMGU"
+			]
+		}
+	},
+	"version": 1
+}

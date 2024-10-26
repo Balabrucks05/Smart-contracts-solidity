@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "c1function",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "c2function",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/OOPS/Inheritance.sol": "pa2"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/OOPS/Inheritance.sol": {
+			"keccak256": "0x1c86f2ddea89d3346fa0fea5f54cb3242188eb8fe66ef849e8c0a26305ee14ec",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://afb01940aa695b8ae5aef27a8821d981324134f17d1e7a1f57cc85ec7fdcc5c6",
+				"dweb:/ipfs/QmWXTeXiNcQAGnpCrnMoyrD7w3FV7nqe7W9qfW6GpLNJtz"
+			]
+		}
+	},
+	"version": 1
+}

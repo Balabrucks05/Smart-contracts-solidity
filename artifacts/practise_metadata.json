@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getBookId",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setBOok",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/struct.sol": "practise"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/struct.sol": {
+			"keccak256": "0xa6c52020936850a00a64d2ae801527a9895ce957fef318e3def913726ab7f6a1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c079561f20108a30170fc07e8ccfc42d2632e6750f59425bf24305c5c613f0e8",
+				"dweb:/ipfs/QmVYkrego4q72bWYqwLMFYgek4bT5npGJ8unZcgKpTjuxw"
+			]
+		}
+	},
+	"version": 1
+}

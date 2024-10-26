@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "c1function",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/OOPS/Inheritance.sol": "parent1"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/OOPS/Inheritance.sol": {
+			"keccak256": "0xbb34fa62a28c5843df0b7fa5c41ab943ba987f1951cb75a8a3c5797c560471a9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://865f841c74a811d5e4525e6f3748a7d4265222321665468f2a7cdc1e5aebb743",
+				"dweb:/ipfs/QmUQsGD7wK4DKAHPBMKTyEqjYjkvAAJTPLRUXvDnkqsHcH"
+			]
+		}
+	},
+	"version": 1
+}
